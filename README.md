@@ -1,7 +1,6 @@
 
 # Quiz Game
 
-## Overview
 This collaborative project is a quiz game implemented in Python. Users are presented with multiple-choice questions, and their answers are evaluated for correctness.
 
 ## Team Members
