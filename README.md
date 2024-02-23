@@ -5,8 +5,8 @@ This collaborative project is a quiz game implemented in Python. Users are prese
 
 ## Team Members
 - [Shinei Shukla](https://github.com/shineishukla)
-- [Maitri Kothari]()
-- [Kinshuk Verma]()
+- [Maitri Kothari](https://github.com/MaitriKothari)
+- Kinshuk Verma
 
 ## Features
 - Interactive quiz with multiple-choice questions
